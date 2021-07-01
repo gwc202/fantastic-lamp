@@ -1,2 +1,0 @@
-# fantastic-lamp
-Activist Toolkit
